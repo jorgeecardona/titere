@@ -1,0 +1,7 @@
+*~
+*.egg-info
+*#
+.#*
+.emacs.desktop
+.emacs.desktop.lock
+*pyc
